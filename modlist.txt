@@ -1,4 +1,3 @@
-Mods:
 [1.7.10] LOTRMod B33.8
 [1.7.10] SecurityCraft v1.8.1
 [1.7.10]+Extended+Shaders+6.0
